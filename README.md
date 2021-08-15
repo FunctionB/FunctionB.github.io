@@ -1,2 +1,2 @@
-# pyaston.github.io
-This is aston's repository.
+# FunctionB.github.io
+This is my repository.
